@@ -13,6 +13,6 @@ It can take time to get this going. I had to revisit this multiple timess and ge
 
 ## Screenshots
 
-![](VBA_Challenge_2017.png)
+![](Resources/VBA_Challenge_2017.png)
 
-![](VBA_Challenge_2018.png)
+![](Resources/VBA_Challenge_2018.png)
